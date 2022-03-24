@@ -1,0 +1,17 @@
+for(setTimeout(function() {
+document.body.style.backgroundColor = 'red'; void 0;}, 1000);
+
+setTimeout(function() {
+document.body.style.backgroundColor = 'orange'; void 0;}, 2000);
+
+setTimeout(function() {
+document.body.style.backgroundColor = 'yellow'; void 0;}, 3000);
+
+setTimeout(function() {
+document.body.style.backgroundColor = 'green'; void 0;}, 4000);
+
+setTimeout(function() {
+document.body.style.backgroundColor = 'blue'; void 0;}, 5000);
+
+setTimeout(function() {
+document.body.style.backgroundColor = 'purple'; void 0;}, 6000));
